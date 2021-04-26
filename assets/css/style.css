@@ -25,8 +25,8 @@ body{
 }
 
 h1{
-    font-size: 12px;
-    color: black !important;
+    font-size: 12em !important;
+    color: black;
     text-align: left;
     margin: 15px 0px 20px 15px;
     font-weight: 500;
