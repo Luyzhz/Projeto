@@ -69,7 +69,7 @@ form .btn-login{
 }
 
 .msg_error .img {
-    height: 230px;
+    height: 15px;
     color: #FF6D6D;
     display: flex;
     justify-content: center;
