@@ -67,3 +67,10 @@ form .btn-login{
         background-repeat: no-repeat;
     }
 }
+
+.msg_error .img {
+    height: 230px;
+    color: #FF6D6D;
+    display: flex;
+    justify-content: center;
+}
